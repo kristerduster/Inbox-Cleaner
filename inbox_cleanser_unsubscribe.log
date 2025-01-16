@@ -77,3 +77,90 @@ WARNING:root:No unsubscribe link found in =?utf-8?q?=F0=9F=98=B0_Streak_Freeze_u
 INFO:root:Marking email for deletion: =?utf-8?q?=F0=9F=98=B0_Streak_Freeze_used_up!?= from hello@duolingo.com
 WARNING:root:No unsubscribe link found in =?utf-8?q?Hey=2C_Duo_here!_Let=E2=80=99s_learn_some_Indonesian=3F?= from hello@duolingo.com
 INFO:root:Marking email for deletion: =?utf-8?q?Hey=2C_Duo_here!_Let=E2=80=99s_learn_some_Indonesian=3F?= from hello@duolingo.com
+INFO:root:Connected to imap.gmail.com
+INFO:root:Logged in as kristerduster1@gmail.com
+WARNING:root:No unsubscribe link found in =?utf-8?q?=F0=9F=A4=94_Can_you_make_it_to_a_3_day_streak=3F?= from hello@duolingo.com
+INFO:root:Marking email for deletion: =?utf-8?q?=F0=9F=A4=94_Can_you_make_it_to_a_3_day_streak=3F?= from hello@duolingo.com
+INFO:root:Marked email b'17' for deletion
+WARNING:root:No unsubscribe link found in =?utf-8?q?=F0=9F=93=9D_Congrats_on_your_first_week!_Check_out_your_progress?= from hello@duolingo.com
+INFO:root:Marking email for deletion: =?utf-8?q?=F0=9F=93=9D_Congrats_on_your_first_week!_Check_out_your_progress?= from hello@duolingo.com
+INFO:root:Marked email b'18' for deletion
+WARNING:root:No unsubscribe link found in =?utf-8?q?Hey=2C_Duo_here!_Let=E2=80=99s_learn_some_Indonesian=3F?= from hello@duolingo.com
+INFO:root:Marking email for deletion: =?utf-8?q?Hey=2C_Duo_here!_Let=E2=80=99s_learn_some_Indonesian=3F?= from hello@duolingo.com
+INFO:root:Marked email b'19' for deletion
+WARNING:root:No unsubscribe link found in Keep Duo happy with a lesson! from hello@duolingo.com
+INFO:root:Marking email for deletion: Keep Duo happy with a lesson! from hello@duolingo.com
+INFO:root:Marked email b'20' for deletion
+WARNING:root:No unsubscribe link found in =?utf-8?q?Hey=2C_Duo_here!_Let=E2=80=99s_learn_some_Indonesian=3F?= from hello@duolingo.com
+INFO:root:Marking email for deletion: =?utf-8?q?Hey=2C_Duo_here!_Let=E2=80=99s_learn_some_Indonesian=3F?= from hello@duolingo.com
+INFO:root:Marked email b'21' for deletion
+WARNING:root:No unsubscribe link found in =?utf-8?q?=F0=9F=8C=8F_Get_to_a_3_day_streak!_Start_now!?= from hello@duolingo.com
+INFO:root:Marking email for deletion: =?utf-8?q?=F0=9F=8C=8F_Get_to_a_3_day_streak!_Start_now!?= from hello@duolingo.com
+INFO:root:Marked email b'24' for deletion
+WARNING:root:No unsubscribe link found in =?utf-8?q?=F0=9F=93=9D_Your_weekly_progress_report?= from hello@duolingo.com
+INFO:root:Marking email for deletion: =?utf-8?q?=F0=9F=93=9D_Your_weekly_progress_report?= from hello@duolingo.com
+INFO:root:Marked email b'27' for deletion
+WARNING:root:No unsubscribe link found in =?utf-8?q?=F0=9F=93=9D_Your_weekly_progress_report?= from hello@duolingo.com
+INFO:root:Marking email for deletion: =?utf-8?q?=F0=9F=93=9D_Your_weekly_progress_report?= from hello@duolingo.com
+INFO:root:Marked email b'28' for deletion
+INFO:root:Unsubscribed from hulu@hulumail.com with subject: TV Fan, Your Free Trial is Waiting
+INFO:root:Marking email for deletion: TV Fan, Your Free Trial is Waiting from hulu@hulumail.com
+INFO:root:Marked email b'29' for deletion
+INFO:root:Unsubscribed from hulu@hulumail.com with subject: Let's make it official. Finish signing up.
+INFO:root:Marking email for deletion: Let's make it official. Finish signing up. from hulu@hulumail.com
+INFO:root:Marked email b'30' for deletion
+INFO:root:Expunged deleted emails successfully
+INFO:root:Connected to imap.gmail.com
+INFO:root:Logged in as kristerduster1@gmail.com
+INFO:root:Unsubscribed from hulu@hulumail.com with subject: Friday's here. Activate your binge mode.
+INFO:root:Marking email for deletion: Friday's here. Activate your binge mode. from hulu@hulumail.com
+INFO:root:Email b'21' moved to Trash
+INFO:root:Unsubscribed from team@e.snapchat.com with subject: A Lens for Every Moment
+INFO:root:Marking email for deletion: A Lens for Every Moment from team@e.snapchat.com
+INFO:root:Email b'22' moved to Trash
+WARNING:root:No unsubscribe link found in 490235 is your Instagram code from no-reply@mail.instagram.com
+INFO:root:Marking email for deletion: 490235 is your Instagram code from no-reply@mail.instagram.com
+INFO:root:Email b'23' moved to Trash
+WARNING:root:No unsubscribe link found in Help strengthen the security of your Google Account from no-reply@accounts.google.com
+INFO:root:Marking email for deletion: Help strengthen the security of your Google Account from no-reply@accounts.google.com
+INFO:root:Email b'24' moved to Trash
+WARNING:root:No unsubscribe link found in Here's 20% off. Now let's get shopping! from oldnavy@email.oldnavy.com
+INFO:root:Marking email for deletion: Here's 20% off. Now let's get shopping! from oldnavy@email.oldnavy.com
+INFO:root:Email b'26' moved to Trash
+INFO:root:Unsubscribed from amy@doelashes.com with subject: a letter from the owner
+INFO:root:Marking email for deletion: a letter from the owner from amy@doelashes.com
+INFO:root:Email b'28' moved to Trash
+WARNING:root:No unsubscribe link found in =?UTF-8?B?RllJOiBZb3UncmUgb2ZmaWNpYWxseSBvbiB0aGUgbGlzdCBmb3Ig?=
+ =?UTF-8?B?dGhlc2UgcGlja3VwIG9wdGlvbnMg8J+al/Cfm40=?= from oldnavy@email.oldnavy.com
+INFO:root:Marking email for deletion: =?UTF-8?B?RllJOiBZb3UncmUgb2ZmaWNpYWxseSBvbiB0aGUgbGlzdCBmb3Ig?=
+ =?UTF-8?B?dGhlc2UgcGlja3VwIG9wdGlvbnMg8J+al/Cfm40=?= from oldnavy@email.oldnavy.com
+INFO:root:Email b'29' moved to Trash
+INFO:root:Unsubscribed from marketing@bx.aeropostale.com with subject: =?UTF-8?B?VGltZSBGb3IgQW4gVXBncmFkZSEgR2V0IDHMtjDMtiXMtiAxNSUgT2ZmIE5vdyE=?=
+INFO:root:Marking email for deletion: =?UTF-8?B?VGltZSBGb3IgQW4gVXBncmFkZSEgR2V0IDHMtjDMtiXMtiAxNSUgT2ZmIE5vdyE=?= from marketing@bx.aeropostale.com
+INFO:root:Email b'30' moved to Trash
+WARNING:root:No unsubscribe link found in An official welcome: This is your invite to the Old Navy App from oldnavy@email.oldnavy.com
+INFO:root:Marking email for deletion: An official welcome: This is your invite to the Old Navy App from oldnavy@email.oldnavy.com
+INFO:root:Email b'31' moved to Trash
+INFO:root:Unsubscribed from marketing@bx.aeropostale.com with subject: =?UTF-8?B?4pqg77iPIFlvdXIgRXhjbHVzaXZlIDE1JSBPZmYgRW5kcyBTb29uIOKaoO+4jyA=?=
+INFO:root:Marking email for deletion: =?UTF-8?B?4pqg77iPIFlvdXIgRXhjbHVzaXZlIDE1JSBPZmYgRW5kcyBTb29uIOKaoO+4jyA=?= from marketing@bx.aeropostale.com
+INFO:root:Email b'32' moved to Trash
+INFO:root:Expunged deleted emails successfully
+INFO:root:Connected to imap.gmail.com
+INFO:root:Logged in as kristerduster1@gmail.com
+INFO:root:Unsubscribed from marketing@bx.aeropostale.com with subject: Your Recently Viewed Items Are 10% Off
+INFO:root:Email b'21' moved to Trash
+INFO:root:Unsubscribed from marketing@bx.aeropostale.com with subject: =?UTF-8?B?8J+aqCAxNSUgT2ZmIEV4cGlyZXMgaW4gMy4uLjIuLi4xIPCfmqgg?=
+INFO:root:Email b'22' moved to Trash
+INFO:root:Unsubscribed from marketing@bx.aeropostale.com with subject: Your Faves Just Dropped In Price =?UTF-8?B?8J+aqA==?=
+INFO:root:Email b'23' moved to Trash
+ERROR:root:Failed to unsubscribe from Now they always say congratulations =?UTF-8?B?8J+lsw==?=: 502
+INFO:root:Email b'24' moved to Trash
+INFO:root:Unsubscribed from hi@doelashes.com with subject: tysm for checkin' us out
+INFO:root:Email b'25' moved to Trash
+INFO:root:Unsubscribed from amy@doelashes.com with subject: =?UTF-8?B?SGVyZSBjb21lcyB0aGUgc3VuIOKYgO+4jw==?=
+INFO:root:Email b'26' moved to Trash
+INFO:root:Email b'27' moved to Trash
+INFO:root:Email b'28' moved to Trash
+INFO:root:Email b'29' moved to Trash
+INFO:root:Email b'30' moved to Trash
+INFO:root:Expunged deleted emails successfully
